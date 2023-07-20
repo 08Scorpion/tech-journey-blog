@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Change this url to change the image!
-const imageUrl = 'https://unsplash.com/photos/P_nM4HIeX8Y';
+const imageUrl = 'https://unsplash.com/photos/EXuKQaf3Ei8';
 const imageKey = imageUrl.split('/').at(-1);
 
 export default function Home() {
@@ -27,7 +27,7 @@ export default function Home() {
             <i>
               Push this link{' '}
               <button className={'btn btn-primary'}>
-                <Link href={'https://github.com/ludu12/tech-journey-blog'}>
+                <Link href={'https://media.tenor.com/aakCvuSEt4QAAAAC/angry-blade-runner.gif'}>
                   <span className={'text-primary-content'}>
                     here
                   </span>
