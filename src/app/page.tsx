@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Change this url to change the image!
-const imageUrl = 'https://unsplash.com/photos/EXuKQaf3Ei8';
+const imageUrl = 'https://commons.wikimedia.org/wiki/File:Ryan_Gosling_Cannes_2011.jpg';
 const imageKey = imageUrl.split('/').at(-1);
 
 export default function Home() {
