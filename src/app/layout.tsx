@@ -9,8 +9,8 @@ TODO:  Change these things along with:
   - avatar.jpeg in /public/images
   - favicon.ico in /public
  */
-const font = Inter({subsets: ['latin']})
-const title = 'Hydra Arms';
+const font = Inter({subsets: ['greek']})
+const title = 'My Blog';
 const description = 'This the Tech Journey template site';
 const links = [
   {title: 'Pokemon', href: '/pokemon'},
