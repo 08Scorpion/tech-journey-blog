@@ -11,7 +11,7 @@ const nextConfig = {
                 hostname: 'rickandmortyapi.com',
             },
             {   protocol: 'https',
-                hostname: 'commons.wikimedia.org',
+                hostname: 'wikipedia.org',
             },
         ],
     },
